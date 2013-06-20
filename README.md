@@ -17,3 +17,9 @@ Answers: http://stackoverflow.com/questions/13916646/how-to-add-a-tfoot-row-to-t
 
 1. $this->load->library('table');
 1. $this->table->set_footer('tfoot_cell1', 'tfoot_cell2');  // just like set_header
+
+
+## Disclaimer: 
+
+This works, but I don't even like CodeIgnigher so it proably looks like it. Do your own testing.  
+I am using it production, and intend to make fixes as necessary.
