@@ -21,5 +21,5 @@ Answers: http://stackoverflow.com/questions/13916646/how-to-add-a-tfoot-row-to-t
 
 ## Disclaimer: 
 
-This works, but I don't even like CodeIgnigher so it proably looks like it. Do your own testing.  
+This works, but I don't even like CodeIgnigher so it probably looks like it. Do your own testing.  
 I am using it production, and intend to make fixes as necessary.
